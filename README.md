@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+#
 📚 As a Master's student in Information Systems at The University of Texas at Arlington, I possess a wealth of knowledge and expertise in cutting-edge technologies. My skills span across Python, SQL, Tableau, PowerBI, Data Analytics and Project Management.  
 
 ### 🖥 Skills
