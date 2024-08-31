@@ -30,3 +30,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+📚 As a Master's student in Information Systems at The University of Texas at Arlington, I possess a wealth of knowledge and expertise in cutting-edge technologies. My skills span across Python, SQL, Tableau, PowerBI, Data Analytics and Project Management.  
+
+### 🖥 Skills
+
+Languages: Python programming, SQL.
+Data Science: Statistics, Exploratory Data Analysis, AWS.
+Libraries: NumPy, Pandas.
+Data Visualization: Power BI, Tableau.
+Analysis Tools: Excel (VLOOKUP, Pivot) Power point, Word.
+Regressors: Linear, Logistic, Random Forest, Hypothesis Testing, Clustering, Time Series Forecasting.
+Soft Skill: Technical Presentation, Teamwork, Administration, Communication, Leadership, Project Management, Skilled Multi- tasker
